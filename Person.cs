@@ -8,7 +8,7 @@ namespace TestConsole
 
         public void ChangeAge()
         {
-            Age = 25;
+            Age = 27;
         }
     }
 }
