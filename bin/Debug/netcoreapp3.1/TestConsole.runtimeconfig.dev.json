@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\shapi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\shapi\\.nuget\\packages"
+    ]
+  }
+}
